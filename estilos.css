@@ -1,0 +1,27 @@
+h1{
+  color: Aqua;
+  font-size: 35px;
+}
+
+h2{
+  color: Navy;
+  font-size: 24px;
+}
+
+h3{
+  color: Navy;
+  font-size: 18px
+}
+
+p{
+  color:DarkViolet;
+}
+
+body{
+  background-color: Azure;
+  text-align: center;
+}
+
+img {
+  max-width: 50%;
+}
